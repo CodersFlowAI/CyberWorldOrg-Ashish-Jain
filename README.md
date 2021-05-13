@@ -79,8 +79,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-
-
-###Files contained
-
-#1. 
+'Files contained'
+ Work on various pages of website mentioned below:
+Home
+Services
+About Us
+Contact Us
+Vacancies/Internships
+Events
+Courses
+Initiatives
+Subscribe Us
+Notification Page
